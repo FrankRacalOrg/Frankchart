@@ -1,0 +1,12 @@
+apiVersion: v1
+entries:
+  notificationchart:
+  - apiVersion: v1
+    created: 2018-01-31T01:06:33.813597202-08:00
+    description: A Helm chart for Kubernetes
+    digest: bab8a2de0f894c81b1cbe2b41858c48b4515cccd0540e4fe8f23249ed6c1fd83
+    name: notificationchart
+    urls:
+    - https://FrankRacalOrg.github.io/Frankchart/notificationchart-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-01-31T01:06:33.812963357-08:00
